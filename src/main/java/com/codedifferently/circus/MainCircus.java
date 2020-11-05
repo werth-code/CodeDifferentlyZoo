@@ -11,7 +11,7 @@ import java.util.ArrayList;
 public class MainCircus {
     private final static Logger logger = Logger.getLogger(MainCircus.class);
 
-    private ArrayList<AbstractAnimal> animals;
+    private ArrayList<Bear> animals;
 
     public MainCircus(){
         this.animals = new ArrayList<>();

@@ -2,7 +2,6 @@ package com.codedifferently.circus;
 
 import com.codedifferently.circus.animals.AbstractAnimal;
 import com.codedifferently.circus.animals.Bear;
-import com.codedifferently.circus.animals.actions.AnimalTricks;
 import org.apache.log4j.Logger;
 
 
